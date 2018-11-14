@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Datos Personales</string>
+    <string name="lblNombre">Nombre:</string>
+    <string name="lblApellidos">Apellidos:</string>
+    <string name="lblEdad">Edad:</string>
+    <string name="lblGenero">Género:</string>
+    <string name="rbHombre">Hombre</string>
+    <string name="rbMujer">Mujer</string>
+    <string name="lblEstado">Estado:</string>
+    <string name="spLista">Lista</string>
+    <string name="lblHijos">¿Tiene Hijos?</string>
+    <string name="btnGenerar">Generar</string>
+    <string name="btnLimpiar">Limpiar</string>
+    <string name="switchHijo"></string>
+    <string name="GGenero"></string>
+    <string name="Nombre0">Falta el Nombre</string>
+    <string name="Apellidos0">Falta el Apellido</string>
+    <string name="Edad0">Falta la Edad</string>
+    <string name="Mayor">Mayor de Edad</string>
+    <string name="Menor">Menor de Edad</string>
+</resources>
