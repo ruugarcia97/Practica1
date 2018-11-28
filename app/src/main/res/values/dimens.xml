@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <dimen name="HorizontalLayo"> 5dp</dimen>
+        <dimen name="VerticalLayo"> 10dp</dimen>
+
+
+</resources>
