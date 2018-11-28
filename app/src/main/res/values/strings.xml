@@ -18,4 +18,8 @@
     <string name="Edad0">Falta la Edad</string>
     <string name="Mayor">Mayor de Edad</string>
     <string name="Menor">Menor de Edad</string>
+    <string name="txtNombre">NOMBRE</string>
+    <string name="txtApellidos">APELLIDOS</string>
+    <string name="txtEdad">EDAD</string>
+    <string name="txtResultado">Resultado</string>
 </resources>
